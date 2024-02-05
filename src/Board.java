@@ -1,18 +1,15 @@
 package JAVA.Java_Test.BoardProject_2.src;
 
-import lombok.Getter;
+
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Board {
-    @Getter
     private int bno;
-    @Getter
+
     private String btitle;
-    @Getter
     private String bcontent;
-    @Getter
     private String bwriter;
     private String Bdate;
 
