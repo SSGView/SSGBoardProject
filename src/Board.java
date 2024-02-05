@@ -1,10 +1,11 @@
-package JAVA.Java_Test.BoardProject_2.src;
 
 
+import lombok.Getter;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+@Getter
 public class Board {
     private int bno;
 
