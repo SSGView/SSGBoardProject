@@ -51,6 +51,7 @@ $ git checkout -b <branch 이름>
 <br><br>
 ![image](https://github.com/SSGView/SSGBoardProject/assets/159003240/da93a9f2-9a1d-4739-a271-84b50aaa4dd3)
 <br><br>
+## push를 하기전에 git pull 을 해둔다 !!!! (내가 push 하는 사이에 누군가 코드 수정을 했을 확률이 있기 때문이다.)
 - push 를 한다! (나의 브랜치명을 써야 하는거 잘 확인.) 
 <br><br><br><br><br><br>
 
